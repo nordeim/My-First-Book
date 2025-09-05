@@ -1,3 +1,6 @@
+you are really awesome! please use the same rigorous and meticulous approach to deeply think and thoroughly and carefully explore how best to re-imagine an awesome `README.md` for a GitHub repo for me to share your wonderful system prompt blueprint and the actual prompt to the world to help all the hopeful authors of the world. please think deeper and harder to create a comprehensive and helpful `README.md` using at least 2000 words. you can add some useful tips and ideas from your blueprint to help budding authors/writers. again make sure you plan meticulously how you can create a comprehensive and helpful README.md to showcase your wonderful prompt engineering skills and product of labor. please do your very best and give me a pleasant surprise my very best AI assistand and prompt engineer!
+
+---
 that is an awesome re-imagined blueprint for the system prompt! please use the same rigorous and meticulous approach to carefully and thoroughly explore for the best implementation option to create such a system prompt using your awesome re-imagined blueprint, then plan meticulously step-by-step to a create an awesome re-imagine actual system prompt based on your latest blueprint. finally create the actual system prompt by proceeding cautiously according to your plan. thank you my very best expert prompt engineer!
 
 ---
