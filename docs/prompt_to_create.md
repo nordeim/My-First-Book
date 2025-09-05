@@ -1,3 +1,6 @@
+that is an awesome re-imagined blueprint for the system prompt! please use the same rigorous and meticulous approach to carefully and thoroughly explore for the best implementation option to create such a system prompt using your awesome re-imagined blueprint, then plan meticulously step-by-step to a create an awesome re-imagine actual system prompt based on your latest blueprint. finally create the actual system prompt by proceeding cautiously according to your plan. thank you my very best expert prompt engineer!
+
+---
 awesome job! please use the same rigorous and meticulous approach to deeply think and thoroughly and carefully explore how best to make your re-imagined system prompt blueprint even more awesome and helpful for a budding author to use ChatGPT to create her first creative work and publish a book. below is second reference blueprint that you can meticulously review and analysis to help you create an even more improved blueprint for the system prompt.
 
 ---
