@@ -1,3 +1,6 @@
+please think deeper and harder to re-imagine your blueprint after carefully review the sample blueprint below. use below as your reference to deeply and thoroughly explore how to create a re-imagined blueprint for a system prompt to get a LLM like ChatGPT to help a novice author to write and publish her first book.
+
+---
 I want you to act as an expert and experienced prompt engineer and give me ideas how to create a complete and awesome system (meta) prompt that I can give to ChatGPT to help me as a budding (novice) author to write and publish my first book / novel that will be well accepted. please think deeper and harder what this system (meta) prompt should include. please explore thoroughly and carefully how best to re-imagine such a system prompt for a novice author to use to get ChatGPT to guide the author to create great and crative content using a series a questions to guide the author. think deeper and harder, then plan and give a comprehensive requirement specifications for such a system prompt.
 
 ---
